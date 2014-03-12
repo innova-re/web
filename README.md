@@ -11,7 +11,7 @@ touch README.md
 git init
 git add README.md
 git commit -m "first commit"
-git remote add origin git@github.com:lNNOVARE/test.git
+git remote add origin git@github.com:lNNOVARE/web.git
 git push -u origin master
 ```
 
@@ -19,6 +19,6 @@ git push -u origin master
 ### Push an existing repository from the command line
 
 ```
-git remote add origin git@github.com:lNNOVARE/test.git
-git push -u origin maste
+git remote add origin git@github.com:lNNOVARE/web.git
+git push -u origin master
 ```
